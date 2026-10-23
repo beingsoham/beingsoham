@@ -5,7 +5,14 @@ Hi, I'm Soham Mokashi, an aspiring Forward Deployed Engineer currently pursuing 
 
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/venomcoder.bsky.social ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/venomcoder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soham-mokashi-b73b32297/?isSelfProfile=true) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32212759/soham-mokashi?tab=profile) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@soham.mokashi8697) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mokashisoham2007@gmail.com) 
+<p align="center">
+  <a href="https://bsky.app/profile/venomcoder.bsky.social"><img src="./bluesky.svg" width="48" height="48" alt="Bluesky" /></a>
+  <a href="https://instagram.com/venomcoder"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/soham-mokashi-b73b32297/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/32212759/soham-mokashi"><img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" width="48" height="48" alt="Stack Overflow" /></a>
+  <a href="https://youtube.com/@soham.mokashi8697"><img src="./youtube.svg" width="48" height="48" alt="YouTube" /></a>
+  <a href="mailto:mokashisoham2007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Email" /></a>
+</p>
 
 # 💻 Tech Stack
 

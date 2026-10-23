@@ -1,6 +1,6 @@
 ![Forward Deployed Engineer Banner](./banner.png)
 
-# 💫 About Me:
+#  About Me:
 Hi, I'm Soham Mokashi, an aspiring Forward Deployed Engineer currently pursuing my second year of B.Tech in Computer Science and Engineering (AI/ML) at Vishwakarma University.<br><br>I'm passionate about backend engineering, DevOps, and building scalable systems. I love participating in hackathons, exploring new technologies, and turning my ideas into beautiful, practical projects that solve real-world problems.<br><br>I'm continuously improving my problem-solving skills through Codeforces and LeetCode while learning more about backend systems, infrastructure, and software engineering.<br><br>My goal is to build impactful products, solve meaningful problems, and bridge the gap between technology and real-world needs.
 
 
